@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:antiquewhite;
+}
+p {
+    color: black;
+    font-size: 16px;
+}
+
+.redsocial{
+    color: black;
+}
+#imagenIndex{
+    width: 30%;
+    height: 10%;
+}
+
+#logoIndex{
+       height: 30%;
+}
+
+header{
+    background-color: linen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer{
+    background-color: linen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav ul li a{
+    list-style: none;
+    text-decoration: none;
+
+}
