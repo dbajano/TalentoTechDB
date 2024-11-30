@@ -1,7 +1,15 @@
 * {
     margin: 0;
     padding: 0;
-    background-color:antiquewhite;
+    background-color:rgb(250, 235, 215, 0.5);;
+    font-family: "rubik";
+}
+
+body{
+    background-image: url(/img/fondo.png);
+    background-size: cover;
+    background-position: center;
+    
 }
 p {
     color: black;
@@ -10,7 +18,10 @@ p {
 
 .redsocial{
     color: black;
+    font-size: 50px;
+    text-decoration: none;
 }
+
 #imagenIndex{
     width: 30%;
     height: 10%;
@@ -29,8 +40,8 @@ footer{
     background-color: linen;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 nav ul li a{
     list-style: none;
     text-decoration: none;
-
 }
